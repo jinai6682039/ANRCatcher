@@ -1,0 +1,4 @@
+#Thu Jun 28 20:55:03 CST 2018
+base.0=D\:\\github\\ANRCatcher\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
